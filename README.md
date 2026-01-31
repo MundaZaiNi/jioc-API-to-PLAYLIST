@@ -1,4 +1,5 @@
 # PROJECT WORKING 🟢
+https://mundazaini.xo.je/JHS.json
 
 # Cloudflare Worker M3U Playlist
 
